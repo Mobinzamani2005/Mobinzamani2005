@@ -1,6 +1,6 @@
 Hi, I’m Mobin Zamani Sadabadi 👋
 
-I’m an enthusiastic learner exploring IT, programming, artificial intelligence, and cybersecurity.
+I’m an enthusiastic learner exploring programming, software development, artificial intelligence, and computer technologies.
 
 I enjoy building small software projects, troubleshooting technical problems, experimenting with different technologies, and learning through hands-on practice.
 
@@ -11,7 +11,7 @@ I enjoy building small software projects, troubleshooting technical problems, ex
 * Web: HTML, CSS, basic JavaScript
 * Virtualization: VMware
 * Operating Systems: Windows, basic Linux/Ubuntu experience
-* * Tools & IDEs: Visual Studio, Visual Studio Code, PyCharm, Notepad++, GitHub
+* Tools & IDEs: Visual Studio, Visual Studio Code, PyCharm, Notepad++, GitHub
 * AI: AI-assisted learning, problem solving, research, and prompt engineering
 
 🚀 Projects
@@ -22,16 +22,16 @@ I enjoy building small software projects, troubleshooting technical problems, ex
 
 🌱 Currently Learning
 
-* Cybersecurity fundamentals
-* Computer networking
 * Python programming
 * Software development
+* Computer networking
+* Cybersecurity fundamentals
 * AI and emerging technologies
 
 🔧 Interests
 
-Programming • Cybersecurity • Artificial Intelligence • Networking • Technology • Troubleshooting
+Programming • Software Development • Artificial Intelligence • Networking • Technology • Troubleshooting
 
 🤝 Connect with me
 
-LinkedIn : https://www.linkedin.com/in/mobinzamanisadabadi
+LinkedIn: https://www.linkedin.com/in/mobinzamanisadabadi
